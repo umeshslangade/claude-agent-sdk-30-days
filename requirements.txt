@@ -1,0 +1,4 @@
+# Core SDK for every day's agent
+claude-agent-sdk>=0.1.0
+# Loads ANTHROPIC_API_KEY from a local .env file
+python-dotenv>=1.0.0
